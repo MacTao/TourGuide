@@ -1,0 +1,2 @@
+# TourGuide
+一个专门为导游设计的助手类应用旨在提高导游的工作效率，使用django框架，由于我本人是一位python爱好者，加上django友好的开发文档，我选择django
